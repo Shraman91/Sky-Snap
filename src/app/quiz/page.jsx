@@ -67,10 +67,10 @@ export default function Quiz() {
       </div>
       
       <div className="text-center space-y-2">
-        <p className="text-xl font-medium text-gray-300">Launching Space Quiz</p>
+        <p className="text-xl font-medium text-gray-300">Launching Marushka</p>
         <p className="text-sm text-gray-500 flex items-center justify-center gap-2">
           <span className="inline-block w-2 h-2 rounded-full bg-blue-500 animate-pulse"></span>
-          <span>Establishing connection with NASA</span>
+          <span>Establishing connection with ISRO</span>
         </p>
       </div>
     </div>

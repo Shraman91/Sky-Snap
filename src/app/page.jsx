@@ -138,7 +138,7 @@ export default function Page() {
             <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
               Your Gateway to Space
             </h2>
-            <p className="text-xl text-gray-300 leading-relaxed">
+            <p className="text-xl text-gray-300">
               SkySnap brings the infinite beauty and mystery of space to your
               fingertips. Whether you're a curious beginner or a seasoned
               astronomy enthusiast, our platform offers an immersive journey
